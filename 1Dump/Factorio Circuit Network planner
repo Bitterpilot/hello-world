@@ -1,0 +1,6 @@
+java application to mimic factorio circuit network.(java for classes and objects)
+  *red and green network
+  *constant, combinators and aritmatic
+  *"light poles" for line management
+  *multipal networks
+  *selected entity highlights the particular network it is conected too
